@@ -2,10 +2,6 @@
 <p>A passionate Web Developer </p>
 <h2> 👨 &nbsp;About Me </h2>
 
-
-
-- 🌱 &nbsp; Studying to become a professional Full Stack Developer
-
 - ♚ &nbsp; I like playing chess on my free time
 
 - 👔 &nbsp; Looking for new opportunities
