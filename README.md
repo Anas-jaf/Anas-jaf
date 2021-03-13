@@ -2,6 +2,7 @@
 <p>A passionate Web Developer </p>
 <h2> 👨 &nbsp;About Me </h2>
 
+
 - ♚ &nbsp; I like playing chess on my free time
 
 - 👔 &nbsp; Looking for new opportunities
