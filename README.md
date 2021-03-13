@@ -3,7 +3,6 @@
 <h2> 👨 &nbsp;About Me </h2>
 
 
-- 🎓 &nbsp; Marine Engineer turned Software developer
 
 - 🌱 &nbsp; Studying to become a professional Full Stack Developer
 
