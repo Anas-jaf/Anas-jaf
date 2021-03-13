@@ -21,5 +21,4 @@
   <li>Ruby & Ruby on Rails</li>
 </ul>
 
-
 <p>Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> :rocket:</p>
