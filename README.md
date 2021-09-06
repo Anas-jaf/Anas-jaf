@@ -2,7 +2,7 @@
 <p>A passionate Web Developer </p>
 <h2> 👨 &nbsp;About Me </h2>
 
-
+- ♚ &nbsp; I love program on my free time and i would love to take it as every day work
 - ♚ &nbsp; I like playing chess on my free time
 
 - 👔 &nbsp; Looking for new opportunities
@@ -18,4 +18,4 @@
 </ul>
 
 
-<p>Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> :rocket:</p>
+<!-- <p>Currently studying as an international programmer in <a href="https://www.microverse.org/" target="_blank">Microverse</a> :rocket:</p> -->
