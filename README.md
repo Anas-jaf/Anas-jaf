@@ -2,8 +2,8 @@
 <p>A passionate Web Developer </p>
 <h2> 👨 &nbsp;About Me </h2>
 
-- ♚ &nbsp; I love program on my free time and i would love to take it as every day work
-- ♚ &nbsp; I like playing chess on my free time
+- ♚ &nbsp; I love to program on my free time and i would love to take it as every day work
+- ♚ &nbsp; I also like playing chess on my free time
 
 - 👔 &nbsp; Looking for new opportunities
 
@@ -11,9 +11,10 @@
 <ul>
   <li>Python</li>
   <li>Web Automation</li>
-  <li>Javascript & Node.js</li>
+  <li>django</li>
   <li>React & Redux</li>
   <li>Shell Scripting</li>
+  <li>Javascript & Node.js</li>
   <li>Ruby & Ruby on Rails</li>
 </ul>
 
