@@ -12,10 +12,12 @@
   <li>Python</li>
   <li>Web Automation</li>
   <li>django</li>
-  <li>React & Redux</li>
+  <li>dart</li>
+  <li>flutter</li>
   <li>Shell Scripting</li>
-  <li>Javascript & Node.js</li>
-  <li>Ruby & Ruby on Rails</li>
+  <li>React & Redux ... [learning]</li>
+  <li>Javascript & Node.js ... [learning]</li>
+  <li>Ruby & Ruby on Rails ... [learning]</li>
 </ul>
 
 
